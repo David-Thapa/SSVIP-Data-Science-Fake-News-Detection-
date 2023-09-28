@@ -1,1 +1,0 @@
-# SSVIP-Data-Science-Task-1
